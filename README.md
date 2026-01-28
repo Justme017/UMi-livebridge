@@ -2,7 +2,7 @@
 
 **Version 2.0** | **Updated: January 13, 2026**
 
-A professional WiFi-based Voice AI Personal Assistant for Xiao ESP32-S3 Sense with E-Ink display.
+A professional WiFi-based Voice AI Personal Assistant for Xiao ESP32-S3 Sense with livekit integration feature.
 
 ---
 
